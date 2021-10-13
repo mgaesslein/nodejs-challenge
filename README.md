@@ -1,4 +1,11 @@
 # nodejs-challenge
+
+## start Server
+to start the server just run the following commands:
+* npm run build-source
+* npm start
+the server should be runnung on port 8000
+
 ## Code Name RED
 
 Herzlichen Glückwunsch, Du erhältst heute unsere Coding Challenge! Weiter unten findest Du die Aufgaben-Stellung.
